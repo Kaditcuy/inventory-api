@@ -1,16 +1,16 @@
-# 🚀 AI-Powered Inventory Management API (FastAPI + GraphQL)
+# AI-Powered Inventory Management API (FastAPI + GraphQL)
 
 An **AI-driven inventory management API** designed for **manufacturing sales reps and distributors**. Built with **FastAPI, GraphQL, PostgreSQL, and Docker** for high-performance data handling and real-time stock tracking.
 
 ---
 
-## 🌟 Features
-✅ **FastAPI**: High-speed REST & GraphQL API  
-✅ **GraphQL with Strawberry**: Efficient querying and data retrieval of inventory & orders  
-✅ **PostgreSQL**: Structured, scalable database  
-✅ **Docker**: Easy deployment & containerization  
-✅ **JWT Authentication**: Secure API access  
-✅ **Async Processing**: Real-time stock updates  
+##  Features
+ **FastAPI**: High-speed REST & GraphQL API  
+ **GraphQL with Strawberry**: Efficient querying and data retrieval of inventory & orders  
+ **PostgreSQL**: Structured, scalable database  
+ **Docker**: Easy deployment & containerization  
+ **JWT Authentication**: Secure API access  
+ **Async Processing**: Real-time stock updates  
 
 ---
 
@@ -93,6 +93,7 @@ docker-compose up --build
 
 ### **🏗 Tech Stack**
 * Backend: FastAPI(pyhton)
+* Web server: Uvicorn
 * Database: PostgreSQL
 * API Querying: Graphql(Strawberry)
 * Deployment: Docker + Uvicorn
